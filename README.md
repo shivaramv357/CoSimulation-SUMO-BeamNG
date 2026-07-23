@@ -8,4 +8,4 @@ One-way co-simulation framework integrating SUMO and BeamNG.tech for traffic sim
 
 The following diagram illustrates the one-way co-simulation architecture.
 
-![System Architecture](images/architecture.png)
+![System Architecture](images/One-Way Coupling Architecture.png)
